@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nailuu
 - 👀 I’m interested in Video Games and exploring all kinds of abandoned places...
-- 🌱 I’m currently learning Web Developpement
+- 🌱 I’m currently learning/studying Web Developpement
 - 📫 contact@nailu.fr
 - 🌐 www.nailu.fr
