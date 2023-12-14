@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Julian!
 
-I'm a student in software development and I also have some knowledge in web development.
+I'm a student in software development at 42 Luxembourg and I also have some knowledge in web development from previous experience.
 
 <h3>Languages & Tools</h3>
 
