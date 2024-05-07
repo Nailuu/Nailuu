@@ -4,7 +4,7 @@ I'm a student in software development at 42 Luxembourg and I also have some know
 
 <h3>Languages & Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,docker,c,cs,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,docker,c,cpp,solidity,bash,linux)](https://skillicons.dev)
 
 <h3>Contact</h3>
 
