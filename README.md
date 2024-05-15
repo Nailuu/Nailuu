@@ -4,9 +4,9 @@
 
 # 🦖 Nailu
 
-**`Digital Craftsman (Junior Developer)`**
+**`Digital Craftsman (Junior Developer/Student)`**
 
-Hello, my name is Julian, I am a student in software development at 42 school in Luxembourg.
+Hello, my name is Julian, I’m a student at 42 Luxembourg, where I’m passionate about coding, problem-solving, and collaborating on exciting projects. Feel free to explore my repositories and connect with me. Let’s learn and grow together!
 
 ## 🧰 Languages & Tools
 
