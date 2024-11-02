@@ -11,7 +11,7 @@ Hello, my name is Julian, I’m a student at 42 Luxembourg, where I’m passiona
 ## 🧰 Languages - Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,spring,java,ts,angular,nextjs,react,c,cpp,solidity,bash,git,docker,linux)](https://skillicons.dev)<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailuu&layout=compact&hide=cmake,css,html,svelte,objective-c,makefile,ruby,dockerfile,shell&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailuu&layout=compact&hide=cmake,css,html,svelte,objective-c,makefile,ruby,dockerfile,shell,javascript&theme=dark)
 
 ## 📊 Statistics
 
