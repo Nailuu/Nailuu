@@ -2,17 +2,12 @@
   <img src="https://github.com/Nailuu/Nailuu/assets/95885844/3fdcc22c-385d-475e-be44-34497f270acc" width="100%""/>
 </div>
 
-# 🦖 Nailu
+# Hey, I'm Julian
 
-**`Digital Craftsman (Junior Developer/Student)`**
+I started coding when I was young, went through [42](https://42.fr), and now I'm a Full-Stack Developer in Luxembourg. When I'm not at work I'm probably rabbit-holing into a side project or writing about some obscure bug that took me way too long to figure out.
 
-Hello, my name is Julian, I’m a student at 42 Luxembourg, where I’m passionate about coding, problem-solving, and collaborating on exciting projects. Feel free to explore my repositories and connect with me. Let’s learn and grow together!
+I blog about the stuff I run into at **[nailu.dev](https://nailu.dev)**, mostly so future me doesn't have to solve the same problem twice.
 
-## 🧰 Languages - Frameworks
+## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,spring,java,ts,angular,nextjs,react,c,cpp,rust,solidity,bash,git,docker,linux)](https://skillicons.dev)<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailuu&layout=compact&hide=cmake,css,html,svelte,objective-c,makefile,ruby,dockerfile,shell,javascript&theme=dark)
-
-## 📊 Statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nailuu&show_icons=true&theme=tokyonight)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,nextjs,spring,postgres,python,docker,azure,go,cpp)](https://skillicons.dev)
